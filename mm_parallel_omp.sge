@@ -1,0 +1,13 @@
+#!/bin/bash
+#$ -cwd
+#$ -S /bin/bash
+#$ -N mm_parallel_omp
+#$ -o mm_parallel_omp.out
+#$ -e mm_parallel_omp.err
+#$ -pe openmp 4
+
+export OMP_NUM_THREADS="$1"
+export OMP_SCHEDULE="$2"
+matrix_size="$3"
+
+./mm_parallel_omp "$matrix_size" >> execution_"$3"_"$2".log
