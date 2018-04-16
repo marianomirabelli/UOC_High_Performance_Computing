@@ -1,0 +1,20 @@
+Value of Z: 4.346051e+17
+Threads number is : 3. 
+Total time taken by CPU: 105920.00 seconds. 
+Task time is about 35 seconds for matrix size equals to  200 
+Done.
+Value of Z: 4.346051e+17
+Threads number is : 4. 
+Total time taken by CPU: 105460.00 seconds. 
+Task time is about 26 seconds for matrix size equals to  200 
+Done.
+Value of Z: 4.346051e+17
+Threads number is : 2. 
+Total time taken by CPU: 106300.00 seconds. 
+Task time is about 53 seconds for matrix size equals to  200 
+Done.
+Value of Z: 4.346051e+17
+Threads number is : 1. 
+Total time taken by CPU: 105370.00 seconds. 
+Task time is about 105 seconds for matrix size equals to  200 
+Done.

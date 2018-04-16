@@ -1,0 +1,20 @@
+Value of Z: 2.186666e+18
+Threads number is : 4. 
+Total time taken by CPU: 533460.00 seconds. 
+Task time is about 134 seconds for matrix size equals to  300 
+Done.
+Value of Z: 2.186666e+18
+Threads number is : 3. 
+Total time taken by CPU: 535750.00 seconds. 
+Task time is about 180 seconds for matrix size equals to  300 
+Done.
+Value of Z: 2.186666e+18
+Threads number is : 2. 
+Total time taken by CPU: 538420.00 seconds. 
+Task time is about 271 seconds for matrix size equals to  300 
+Done.
+Value of Z: 2.186666e+18
+Threads number is : 1. 
+Total time taken by CPU: 533110.00 seconds. 
+Task time is about 534 seconds for matrix size equals to  300 
+Done.

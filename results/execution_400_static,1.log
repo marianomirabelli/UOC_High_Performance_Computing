@@ -1,0 +1,20 @@
+Value of Z: 6.934125e+18
+Threads number is : 4. 
+Total time taken by CPU: 1685560.00 seconds. 
+Task time is about 423 seconds for matrix size equals to  400 
+Done.
+Value of Z: 6.934125e+18
+Threads number is : 3. 
+Total time taken by CPU: 1692480.00 seconds. 
+Task time is about 568 seconds for matrix size equals to  400 
+Done.
+Value of Z: 6.934125e+18
+Threads number is : 2. 
+Total time taken by CPU: 1698430.00 seconds. 
+Task time is about 858 seconds for matrix size equals to  400 
+Done.
+Value of Z: 6.934125e+18
+Threads number is : 1. 
+Total time taken by CPU: 1688150.00 seconds. 
+Task time is about 1689 seconds for matrix size equals to  400 
+Done.
