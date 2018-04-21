@@ -1,0 +1,14 @@
+#!/bin/bash
+#$ -cwd
+#$ -V
+#$ -S /bin/bash
+#$ -N original_barrier
+#$ -o original_barrier_omp.out
+#$ -e original_barrier_omp.err?
+
+SIZE="$1"
+ITERS="$2"
+IMBALANCES="$3"
+IMBALANCES_BASE="$4"
+
+mpirun ./barr_sync_original "$SIZE" "$ITERS" "$IMBALANCES" "$IMBALANCES_BASE"
