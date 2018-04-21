@@ -1,20 +1,18 @@
 Value of Z: 2.722423e+16
 Threads number is : 3. 
-Total time taken by CPU: 6690.00 seconds. 
+Total time taken by CPU: 6770.00 seconds. 
 Task time is about 2 seconds for matrix size equals to  100 
+Schedule policy is 1 and chunk size is  1
 Done.
 Value of Z: 2.722423e+16
 Threads number is : 2. 
-Total time taken by CPU: 6660.00 seconds. 
+Total time taken by CPU: 6630.00 seconds. 
 Task time is about 3 seconds for matrix size equals to  100 
+Schedule policy is 1 and chunk size is  1
 Done.
 Value of Z: 2.722423e+16
 Threads number is : 1. 
-Total time taken by CPU: 6560.00 seconds. 
+Total time taken by CPU: 6570.00 seconds. 
 Task time is about 6 seconds for matrix size equals to  100 
-Done.
-Value of Z: 2.722423e+16
-Threads number is : 4. 
-Total time taken by CPU: 6600.00 seconds. 
-Task time is about 1 seconds for matrix size equals to  100 
+Schedule policy is 1 and chunk size is  1
 Done.

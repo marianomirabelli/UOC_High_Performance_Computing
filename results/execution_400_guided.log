@@ -1,0 +1,24 @@
+Value of Z: 6.934125e+18
+Threads number is : 4. 
+Total time taken by CPU: 1688130.00 seconds. 
+Task time is about 424 seconds for matrix size equals to  400 
+Schedule policy is 3 and chunk size is  1
+Done.
+Value of Z: 6.934125e+18
+Threads number is : 3. 
+Total time taken by CPU: 1693520.00 seconds. 
+Task time is about 567 seconds for matrix size equals to  400 
+Schedule policy is 3 and chunk size is  1
+Done.
+Value of Z: 6.934125e+18
+Threads number is : 2. 
+Total time taken by CPU: 1703580.00 seconds. 
+Task time is about 854 seconds for matrix size equals to  400 
+Schedule policy is 3 and chunk size is  1
+Done.
+Value of Z: 6.934125e+18
+Threads number is : 1. 
+Total time taken by CPU: 1685520.00 seconds. 
+Task time is about 1688 seconds for matrix size equals to  400 
+Schedule policy is 3 and chunk size is  1
+Done.
